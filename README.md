@@ -43,3 +43,14 @@ A análise detalha a comparação entre o Pakistão, Suíça e o Brasil em termo
 
 ## Conclusão(Analyses (Switzerland X Brazil)) e (Analyses (Pakistan X Brazil))
 O projeto forneceu uma análise detalhada das condições econômicas na Suíça, Pakistão e no Brasil, destacando as diferenças  nos índices de custo de vida e poder de compra local.
+
+## Métodos e Técnicas (GERAL)
+Vários métodos e técnicas foram utilizados para abordar as perguntas de negócios:
+
+- **Agrupamento e Agregação:** Os dados foram agrupados e agregados para resumir os índices por país. Isso ajudou a identificar os países com os maiores e menores valores para cada índice.
+
+- **Visualização de Dados:** Gráficos de barras e gráficos de pizza foram utilizados para destacar tendências e padrões nos dados. Gráficos de barras proporcionaram uma comparação clara dos índices entre países, enquanto gráficos de pizza ilustraram a proporção de cada índice.
+
+- **Cálculo de Diferença Relativa:** Diferenças percentuais entre os índices da Suíça e do Brasil foram calculadas para quantificar as disparidades.
+
+- **Aplicação de várias bibliotecas `Python`:** Utilização de `pandas` para manipulação de dados e `seaborn` e `matplotlib` para visualização de dados.
