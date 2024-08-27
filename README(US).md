@@ -43,3 +43,14 @@ The analysis details the comparison between Pakistan, Switzerland, and Brazil in
 
 ## Conclusion (Analyses (Switzerland X Brazil) and (Pakistan X Brazil))
 The project provided a detailed analysis of economic conditions in Switzerland, Pakistan, and Brazil, highlighting differences in cost of living and local purchasing power indices.
+
+## Methods and Techniques
+Several methods and techniques were used to address the business questions:
+
+- **Grouping and Aggregation:** Data was grouped and aggregated to summarize indices by country. This helped identify the countries with the highest and lowest values for each index.
+
+- **Data Visualization:** Bar charts and pie charts were utilized to highlight trends and patterns in the data. Bar charts provided a clear comparison of indices between countries, while pie charts illustrated the proportion of each index.
+
+- **Relative Difference Calculation:** Percentage differences between indices for Switzerland and Brazil were calculated to quantify the disparities.
+
+- **Application of Various Python Libraries:** Utilized `pandas` for data manipulation and `seaborn` and `matplotlib` for data visualization.
